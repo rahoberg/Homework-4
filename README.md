@@ -11,6 +11,7 @@ Definitely need to run more tests here.
 Problem 2:
 The histogram shows the primes are evenly spaced among numbers coprime to 15.
 I conjecture that for each number d coprime to 15 there are infinitely many primes that are congruent to d mod 15.
+Running this on various other values for n, I get the same results - the distribution of primes is even among the numbers coprime to n.
 
 Problem 3:
 The rational number is 1234567/8901234.

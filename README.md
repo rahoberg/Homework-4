@@ -9,7 +9,6 @@ When a is even, I had more trouble figuring out which values of b will yield inf
 Definitely need to run more tests here.
 
 Problem 2:
-
 The histogram shows the primes are evenly spaced among numbers coprime to 15.
 I conjecture that for each number d coprime to 15 there are infinitely many primes that are congruent to d mod 15.
 
